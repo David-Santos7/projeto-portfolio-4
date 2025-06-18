@@ -13,6 +13,7 @@ Animação 3D: Efeito de virar a carta suave e atraente feito com CSS transform 
 Design Temático: Interface e elementos visuais inspirados em uma lanchonete retrô.
 Música de Fundo: Áudio para ambientação que toca após a primeira interação do usuário com a página (conforme as políticas de autoplay dos navegadores).
 Botão de Reset: Permite que o jogador inicie uma nova partida a qualquer momento.
+
 🛠️ Tecnologias Utilizadas
 Este projeto foi construído utilizando as seguintes tecnologias:
 
