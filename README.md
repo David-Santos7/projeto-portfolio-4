@@ -3,9 +3,6 @@
 🍔 Jogo da Memória - Game Snack Bar 🥤
 Um divertido e estiloso jogo da memória com tema de lanchonete, desenvolvido com HTML, CSS e JavaScript puro. O objetivo é encontrar todos os pares de "pedidos" (emojis de comida) no menor tempo possível.
 
-!http://googleusercontent.com/image_generation_content/2
-(Sugestão: Você pode usar a imagem que geramos anteriormente para ilustrar seu projeto!)
-
 📌 Sobre o Projeto
 O Game Snack Bar é uma aplicação web interativa que reimagina o clássico jogo da memória com uma estética retrô de lanchonete americana dos anos 80. O projeto utiliza animações 3D em CSS para o efeito de virar as cartas e JavaScript para controlar toda a lógica do jogo, incluindo o embaralhamento das cartas, a verificação dos pares e a condição de vitória.
 
